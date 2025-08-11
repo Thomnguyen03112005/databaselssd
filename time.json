@@ -1,1 +1,13 @@
 
+{
+    "thowm": {
+        "last_onduty": "2025-08-11 14:22:33",
+        "last_offduty": "2025-08-11 15:10:11",
+        "total_minutes": 48
+    },
+    "user2": {
+        "last_onduty": "2025-08-11 09:00:00",
+        "last_offduty": "2025-08-11 10:45:12",
+        "total_minutes": 105
+    }
+}
